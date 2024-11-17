@@ -1,7 +1,7 @@
 package com.spotify.stats.api;
 
 import se.michaelthelin.spotify.SpotifyApi;
-import utils.ScannerUtils;
+import com.spotify.stats.utils.ScannerUtils;
 
 import java.net.URI;
 

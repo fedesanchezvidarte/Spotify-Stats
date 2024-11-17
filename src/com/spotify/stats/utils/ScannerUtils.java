@@ -1,4 +1,4 @@
-package utils;
+package com.spotify.stats.utils;
 
 import java.util.Scanner;
 
